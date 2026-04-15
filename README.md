@@ -7,8 +7,12 @@
     </head>
     <body>
         <p>
-            PRESS THIS,
+            71,
             <a href="http://192.168.1.71:5173">press this</a>.
+        </p>
+        <p>
+            72,
+            <a href="http://192.168.1.72:5173">press this</a>.
         </p>
     </body>
 </html>
